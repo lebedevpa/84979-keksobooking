@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
 
 * Студент: [Pavel Lebedev](https://up.htmlacademy.ru/javascript/8/user/84979).
-* Наставник: `Неизвестно`.
+* Наставник: `Иван Клочко`(https://github.com/i1group).
 
 ---
 
